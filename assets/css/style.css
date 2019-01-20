@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/trivia.jpg");
+	text-align: center;
+}
+h1{
+  font-size: 5em;
+  margin-bottom: 50px;
+  border: chartreuse;
+  font-weight: bold;
+  color:black;
+  font-family: 'Times New Roman', Times, serif;
+}
+#start{
+   background: orange;
+   margin-top: 12%;
+   border:1px solid rgb(0, 255, 42);
+  }
+  footer {
+    height: 30px;
+    margin-top: 350px;
+
+  }
+  #letsGO{
+    width:200px;
+    height:80px;
+    margin: 10px auto 0 auto;
+    border-block-start: rgb(0, 255, 42);
+    cursor: pointer;
+    font-size: 35px;
+    font-style: oblique;
+    background-color: red;
+  }
+  #subcontainer{
+    position: relative;
+
+  }
+  #quizLoc h2{
+    margin-top: 50px;
+  }
+  #done{
+    margin: auto;
+  }
